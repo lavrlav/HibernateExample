@@ -1,0 +1,13 @@
+
+D
+HibernateExample.iml,2\e\2e57970ba23aa4d1a192d03603341a255a4069c6
+X
+(.idea/artifacts/HibernateExample_war.xml,3\2\328f46b59a1d6929919c49f47d3c7153dd38be74
+a
+1.idea/artifacts/HibernateExample_war_exploded.xml,e\5\e5df6802bc5dcc70d9029af761b73673975eacde
+‰
+Y.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml,8\4\845b5784e9e4dcdae2a3fc2103f81004ead9ca9a
+‚
+R.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_2_0_Final.xml,d\e\de8b64e7d11d128963edd931ce601b5a0796e492
+s
+C.idea/libraries/Maven__org_hibernate_hibernate_core_5_6_1_Final.xml,7\e\7e2811976874ea10df1f55358d92dae16f4d4617
